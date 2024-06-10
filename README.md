@@ -10,7 +10,9 @@ Bases de Datos: PostgreSQL, Sequelize
 
 🚀 Cualidades:
 
-• Aprendizaje rápido: Constantemente aprendiendo y adaptándome a nuevas tecnologías. Proactiva y curiosa: Siempre buscando nuevas formas de mejorar y optimizar.
+• Aprendizaje rápido: Estoy constantemente aprendiendo y adaptándome a nuevas tecnologías.
+
+• Proactiva y curiosa: Siempre buscando nuevas formas de mejorar y optimizar.
 
 • Trabajo en equipo: Colaborativa y orientada a soluciones efectivas.
 
