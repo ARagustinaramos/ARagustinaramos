@@ -1,4 +1,5 @@
-![MatrixGithubGIF (2)](https://github.com/ARagustinaramos/ARagustinaramos/assets/144278185/5f24989a-efb5-4d14-93fb-f75f5a6c404b)
+![GithubCatGIF](https://github.com/ARagustinaramos/ARagustinaramos/assets/144278185/6f75627a-ae0f-4e57-ba80-40d4d41505a1)
+
 
 
 😊¡Hola! Soy desarrolladora Full Stack con experiencia en tecnologías modernas como JavaScript, React, Redux, Express, Node.js, PostgreSQL y Sequelize. Recientemente completé un bootcamp intensivo que me preparó para enfrentar desafíos en el desarrollo de aplicaciones web completas.
