@@ -1,4 +1,5 @@
-![GithubCatGIF](https://github.com/ARagustinaramos/ARagustinaramos/assets/144278185/6f75627a-ae0f-4e57-ba80-40d4d41505a1)
+![GithubGifGIF](https://github.com/ARagustinaramos/ARagustinaramos/assets/144278185/3a5b45d6-fbfc-4b3a-b000-984030687893)
+
 
 
 
