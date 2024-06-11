@@ -1,6 +1,6 @@
-## Hola👋🏻, ¡Soy Agustina!
+## Hola👋🏻, ¡Soy Agustina! 👩🏻‍💻
 
-Soy desarrolladora Full Stack con experiencia en tecnologías modernas como JavaScript, React, Redux, Express, Node.js, PostgreSQL y Sequelize. Recientemente completé un bootcamp intensivo que me preparó para enfrentar desafíos en el desarrollo de aplicaciones web completas.
+📍Soy desarrolladora Full Stack con experiencia en tecnologías modernas como JavaScript, React, Redux, Express, Node.js, PostgreSQL y Sequelize. Recientemente completé un bootcamp intensivo que me preparó para enfrentar desafíos en el desarrollo de aplicaciones web completas.
 
 🔧 Tecnologías y herramientas:
 
